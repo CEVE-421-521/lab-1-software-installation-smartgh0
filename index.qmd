@@ -19,11 +19,11 @@ format:
             - margin=1in  
         number-sections: true
         code-line-numbers: true
-    docx: 
-        toc: true
-        fig-format: png
-        number-sections: true
-        code-line-numbers: true
+    #docx: 
+        #toc: true
+        #fig-format: png
+        #number-sections: true
+        #code-line-numbers: true
 
 date-format: "ddd., MMM. D"
 ---
