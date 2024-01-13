@@ -1,7 +1,7 @@
 ---
 title: "Lab 1: Software Installation"
 subtitle: "Julia, Quarto, GitHub"
-author: "CEVE 421/521" # TODO: add your name here
+author: "Solomon Nyamekye/sn66" # TODO: add your name here
 jupyter: julia-1.10
 date: 2024-01-12
 week: 1
@@ -111,7 +111,7 @@ Going forward, if you want to add new versions or change the default, you can [f
 
 ### Install VS Code
 
-VS Code is as close to an officially supported editor for Julia as you can get.
+VS Code is as close to an officially supported editor  for Julia as you can get.
 We will follow [this guide for setting up VS Code with Julia](https://www.julia-vscode.org/docs/dev/gettingstarted/).
 
 ::: {.callout-info}
