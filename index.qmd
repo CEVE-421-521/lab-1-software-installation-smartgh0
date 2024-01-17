@@ -1,7 +1,7 @@
 ---
 title: "Lab 1: Software Installation"
 subtitle: "Julia, Quarto, GitHub"
-author: "Solomon Nyamekye/sn66" # TODO: add your name here
+author: " Solomon Nyamekye/sn66 " # TODO: add your name here
 jupyter: julia-1.10
 date: 2024-01-12
 week: 1
